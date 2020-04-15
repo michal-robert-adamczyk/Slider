@@ -1,0 +1,1 @@
+# I am making slider by using modern standards of JavaScript.
